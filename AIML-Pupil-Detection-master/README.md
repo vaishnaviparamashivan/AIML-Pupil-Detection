@@ -147,3 +147,14 @@ Refered dlib face detection lib [Dlib](http://dlib.net/python/index.html).
 ## Keywords
 
 Pupil-detection, face-detection, eye-detection, opencv-image-processing, dlib, HoughCircles, artificial-intelligence, machine-learning, ai-ml
+
+## Acknowledgements
+
+This project is inspired by the original Pupil Detection project by WeblineIndia.
+
+Original Repository: https://github.com/weblineindia/AIML-Pupil-Detection
+
+The original implementation is licensed under the MIT License. Credit for the original work belongs to its respective authors.
+
+This repository is maintained for educational and learning purposes.
+
